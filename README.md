@@ -1,6 +1,6 @@
-Movie Recommender System
+Movie Recommendation System
 
-This project is a Movie Recommender System that uses cosine similarity and TF-IDF Vectorization to suggest movies based on user preferences. The system compares the features of movies like genre, lead star, director, and music director to recommend similar titles.
+This project is a Movie Recommendation System that uses cosine similarity and TF-IDF Vectorization to suggest movies based on user preferences. The system compares the features of movies like genre, lead star, director, and music director to recommend similar titles.
 
 ## Table of Contents
 - Overview
